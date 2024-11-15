@@ -1,6 +1,7 @@
 from streamlit import *
 
 page_link("Welcome_Page.py",label="",icon="🔙")
+write("goodmorning")
 
 title(":red[Why choose us?]")
 write_stream("TrackYourDuck is more than just a name; it's a playful reminder to keep paddling, no matter how challenging it may seem.")
